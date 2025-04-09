@@ -1,0 +1,415 @@
+{
+    "status": true,
+    "message": "List rankings retrieved successfully (duplicates removed) and ordered by point and customer_number",
+    "totalResult": 51,
+    "data": [
+        {
+            "_id": "66b4c1eda2e273b641798b8b",
+            "customer_name": "40596",
+            "customer_number": "40596",
+            "point": 38650,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4be08a2e273b641798b19",
+            "customer_name": "11043",
+            "customer_number": "11043",
+            "point": 36160,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4c66aa2e273b641798c3a",
+            "customer_name": "1000",
+            "customer_number": "1000",
+            "point": 35300,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4be08a2e273b641798b1c",
+            "customer_name": "17429",
+            "customer_number": "17429",
+            "point": 35150,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4c66aa2e273b641798c3d",
+            "customer_name": "3902",
+            "customer_number": "3902",
+            "point": 33550,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4b5c5a2e273b64179889f",
+            "customer_name": "48225",
+            "customer_number": "48225",
+            "point": 30810,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4be08a2e273b641798b1f",
+            "customer_name": "1461",
+            "customer_number": "1461",
+            "point": 29050,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4b5c5a2e273b6417988a2",
+            "customer_name": "5811",
+            "customer_number": "5811",
+            "point": 28260,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4ba33a2e273b641798a61",
+            "customer_name": "40597",
+            "customer_number": "40597",
+            "point": 27900,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4c66aa2e273b641798c42",
+            "customer_name": "423",
+            "customer_number": "423",
+            "point": 25940,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4c1eda2e273b641798b8e",
+            "customer_name": "5797",
+            "customer_number": "5797",
+            "point": 25400,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4b5c5a2e273b6417988a5",
+            "customer_name": "49406",
+            "customer_number": "49406",
+            "point": 24400,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4c1eda2e273b641798b91",
+            "customer_name": "333",
+            "customer_number": "333",
+            "point": 24000,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4ba33a2e273b641798a52",
+            "customer_name": "21169",
+            "customer_number": "21169",
+            "point": 23040,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4ba33a2e273b641798a55",
+            "customer_name": "115",
+            "customer_number": "115",
+            "point": 20670,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4b5c5a2e273b6417988a8",
+            "customer_name": "8065",
+            "customer_number": "8065",
+            "point": 20190,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4b5c5a2e273b6417988ab",
+            "customer_name": "37288",
+            "customer_number": "37288",
+            "point": 18940,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4ba33a2e273b641798a58",
+            "customer_name": "66",
+            "customer_number": "66",
+            "point": 18750,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4c1eea2e273b641798b95",
+            "customer_name": "12844",
+            "customer_number": "12844",
+            "point": 18750,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4be08a2e273b641798b22",
+            "customer_name": "22066",
+            "customer_number": "22066",
+            "point": 17250,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4ba33a2e273b641798a5b",
+            "customer_name": "48358",
+            "customer_number": "48358",
+            "point": 15700,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4ba33a2e273b641798a5e",
+            "customer_name": "51840",
+            "customer_number": "51840",
+            "point": 15070,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4be08a2e273b641798b25",
+            "customer_name": "12467",
+            "customer_number": "12467",
+            "point": 12900,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4c66aa2e273b641798c46",
+            "customer_name": "37859",
+            "customer_number": "37859",
+            "point": 7480,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4c1eea2e273b641798b98",
+            "customer_name": "13389",
+            "customer_number": "13389",
+            "point": 5400,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4be08a2e273b641798b28",
+            "customer_name": "10595",
+            "customer_number": "10595",
+            "point": 4680,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4c66aa2e273b641798c4b",
+            "customer_name": "8110",
+            "customer_number": "8110",
+            "point": 2210,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4b5c5a2e273b6417988ae",
+            "customer_name": "47942",
+            "customer_number": "47942",
+            "point": 1850,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4be09a2e273b641798b2b",
+            "customer_name": "5543",
+            "customer_number": "5543",
+            "point": 1400,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4b5c5a2e273b6417988b1",
+            "customer_name": "674",
+            "customer_number": "674",
+            "point": 700,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4ba34a2e273b641798a64",
+            "customer_name": "7202",
+            "customer_number": "7202",
+            "point": 324,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4ba34a2e273b641798a67",
+            "customer_name": "53943",
+            "customer_number": "53943",
+            "point": 310,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4be09a2e273b641798b2e",
+            "customer_name": "777",
+            "customer_number": "777",
+            "point": 200,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4c66aa2e273b641798c4e",
+            "customer_name": "11806",
+            "customer_number": "11806",
+            "point": 100,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b495ffa2e273b641798775",
+            "customer_name": "PL 10",
+            "customer_number": "10",
+            "point": 1,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b495ffa2e273b641798774",
+            "customer_name": "PL 09",
+            "customer_number": "09",
+            "point": 1,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b495ffa2e273b641798773",
+            "customer_name": "PL 08",
+            "customer_number": "08",
+            "point": 1,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b495ffa2e273b641798772",
+            "customer_name": "PL 07",
+            "customer_number": "07",
+            "point": 1,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b495ffa2e273b641798771",
+            "customer_name": "PL 06",
+            "customer_number": "06",
+            "point": 1,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b495ffa2e273b641798770",
+            "customer_name": "PL 05",
+            "customer_number": "05",
+            "point": 1,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b495ffa2e273b64179876f",
+            "customer_name": "PL 04",
+            "customer_number": "04",
+            "point": 1,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b495ffa2e273b64179876e",
+            "customer_name": "PL 03",
+            "customer_number": "03",
+            "point": 1,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b495ffa2e273b64179876d",
+            "customer_name": "PL 02",
+            "customer_number": "02",
+            "point": 1,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b495ffa2e273b64179876c",
+            "customer_name": "PL 01",
+            "customer_number": "01",
+            "point": 1,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4b5c5a2e273b6417988b7",
+            "customer_name": "6459",
+            "customer_number": "6459",
+            "point": 0,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4b5c5a2e273b6417988b4",
+            "customer_name": "48094",
+            "customer_number": "48094",
+            "point": 0,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4c1eea2e273b641798b9b",
+            "customer_name": "45265",
+            "customer_number": "45265",
+            "point": 0,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4ba34a2e273b641798a6a",
+            "customer_name": "37130",
+            "customer_number": "37130",
+            "point": 0,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4c1eea2e273b641798b9f",
+            "customer_name": "36586",
+            "customer_number": "36586",
+            "point": 0,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4be09a2e273b641798b31",
+            "customer_name": "17428",
+            "customer_number": "17428",
+            "point": 0,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        },
+        {
+            "_id": "66b4b5c6a2e273b6417988ba",
+            "customer_name": "1",
+            "customer_number": "1",
+            "point": 0,
+            "createdAt": "2024-08-05T11:34:27.086Z",
+            "__v": 0
+        }
+    ]
+}
